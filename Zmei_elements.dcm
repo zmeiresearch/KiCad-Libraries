@@ -1,0 +1,71 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SK208
+D Silicon N Channel JFET
+$ENDCMP
+#
+$CMP ESP32DevKit_30pin
+F https://www.aliexpress.com/item/32992390199.html?spm=a2g0s.9042311.0.0.23c84c4dkfKnQl
+$ENDCMP
+#
+$CMP ESP32DevKit_38pin
+F https://www.aliexpress.com/item/32992390199.html?spm=a2g0s.9042311.0.0.23c84c4dkfKnQl
+$ENDCMP
+#
+$CMP GND_BT
+D Power symbol creates a global label with name "GND_BT" , Bluetooth module ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_USB
+D Power symbol creates a global label with name "GND_USB" , USB module ground
+K power-flag
+$ENDCMP
+#
+$CMP IDT83052
+F https://www.mouser.bg/datasheet/2/464/IDT_83052I_DST_20151215-1486184.pdf
+$ENDCMP
+#
+$CMP IS61WV25616E
+F http://www.issi.com/WW/pdf/61-64WV25616EDBLL.pdf
+$ENDCMP
+#
+$CMP IS61WV5128FBLL
+F http://www.issi.com/WW/pdf/61-64WV25616EDBLL.pdf
+$ENDCMP
+#
+$CMP MCP65R41T
+D Single Comparator with reference
+K single comparator reference
+F http://ww1.microchip.com/downloads/en/DeviceDoc/DS20002143E.pdf
+$ENDCMP
+#
+$CMP OpAmp
+D Operational Amplifier, DIP-8/TO-99-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lm741.pdf
+$ENDCMP
+#
+$CMP PCM1792A
+D 24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, SW Control, SSOP-28
+K audio dac 2ch 24bit 192kHz
+F http://www.ti.com/lit/ds/symlink/pcm1792a.pdf
+$ENDCMP
+#
+$CMP PL133-37
+D Clock fanout buttfer 1:3
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PL133-37.pdf
+$ENDCMP
+#
+$CMP Si5344
+D Any-frequency, Any-output Jitter-Attenuators/Clock Multipliers
+F https://www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf
+$ENDCMP
+#
+$CMP TPS73601DCQ
+D Cap free NMOS 400mA Low Drop Adjustable Out Regulator, SOT-23-5
+K Cap free Adjustable LDO 400mA
+F http://www.ti.com/lit/ds/symlink/tps736.pdf
+$ENDCMP
+#
+#End Doc Library
