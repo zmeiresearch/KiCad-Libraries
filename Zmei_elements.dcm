@@ -52,6 +52,12 @@ K audio dac 2ch 24bit 192kHz
 F http://www.ti.com/lit/ds/symlink/pcm1792a.pdf
 $ENDCMP
 #
+$CMP PCM1794A
+D 24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, SW Control, SSOP-28
+K audio dac 2ch 24bit 192kHz
+F http://www.ti.com/lit/ds/symlink/pcm1794a.pdf
+$ENDCMP
+#
 $CMP PL133-37
 D Clock fanout buttfer 1:3
 F http://ww1.microchip.com/downloads/en/DeviceDoc/PL133-37.pdf
